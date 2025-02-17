@@ -77,5 +77,3 @@ mv hugo /usr/local/bin/
 Verify installation using:
 
 hugo version
-
-Now you’re ready to create and run Hugo projects! 🚀 Let me know if you need any help.
